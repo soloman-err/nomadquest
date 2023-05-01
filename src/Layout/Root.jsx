@@ -4,7 +4,7 @@ import Home from "../Pages/Home";
 
 const Root = () => {
   return (
-    <div>
+    <div className="container mx-auto">
       <Header></Header>
       <Home></Home>
     </div>
